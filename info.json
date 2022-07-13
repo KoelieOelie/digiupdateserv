@@ -7,7 +7,7 @@
     "requires_php": "5.3.0",
     "requires": "5.9.3",
     "tested": "5.9.3",
-    "download_url": "http:\/\/digiupdateserv:8080\/plugins\/misha-update-checker\/archive\/trunk.zip",
+    "download_url": "https:\/\/github.com\/KoelieOelie\/digiupdateserv\/blob\/main\/misha-update-checker-1.0.0.zip?raw=true",
     "last_updated": "2022-06-29 14:26:26",
     "sections": {
         "description": "This simple plugin does nothing, only gets updates from a custom server",
