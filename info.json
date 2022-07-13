@@ -1,0 +1,29 @@
+{
+    "name": "Misha Update Checker",
+    "slug": "misha-update-checker",
+    "author_profile": "-",
+    "author": "<a href='https:\/\/rudrastyh.com'>Misha Rudrastyh<\/a>",
+    "version": "1.0.0",
+    "requires_php": "5.3.0",
+    "requires": "5.9.3",
+    "tested": "5.9.3",
+    "download_url": "http:\/\/digiupdateserv:8080\/plugins\/misha-update-checker\/archive\/trunk.zip",
+    "last_updated": "2022-06-29 14:26:26",
+    "sections": {
+        "description": "This simple plugin does nothing, only gets updates from a custom server",
+        "installation": "Click the activate button and that's it.",
+        "changelog": "<h1>Changelog<\/h1>\n<p>All notable changes to this project will be documented in this file.<\/p>\n<p>The format is based on <a href=\"https:\/\/keepachangelog.com\/en\/1.0.0\/\">Keep a Changelog<\/a>,\nand this project adheres to <a href=\"https:\/\/semver.org\/spec\/v2.0.0.html\">Semantic Versioning<\/a>.<\/p>\n<h2><a href=\"http:\/\/localhost:3000\/DUS_plugins\/slinger_plugin\/compare\/v1.0.0...master\">Unreleased<\/a><\/h2>\n<h2><a href=\"http:\/\/localhost:3000\/DUS_plugins\/slinger_plugin\/src\/tag\/v1.0.0\">1.0.0<\/a> - 2022-06-20<\/h2>\n<h3>Added<\/h3>\n<ul>\n<li>This CHANGELOG file<\/li>\n<li>Index.php<\/li>\n<li>Slinger-plugin.php<\/li>\n<li>Banners<\/li>\n<li>Info.ini<\/li>\n<\/ul>"
+    },
+    "banners": {
+        "low": "http:\/\/digiupdateserv:8080\/plugins\/misha-update-checker\/banners\/banner-772x250.jpg",
+        "high": "http:\/\/digiupdateserv:8080\/plugins\/misha-update-checker\/banners\/banner-1544x500.jpg"
+    },
+    "versions": {
+        "1.0.0": "http:\/\/digiupdateserv:8080\/plugins\/misha-update-checker\/archive\/1.0.0.zip",
+        "trunk": "http:\/\/digiupdateserv:8080\/plugins\/misha-update-checker\/archive\/trunk.zip"
+    },
+    "icon": {
+        "s": "https:\/\/via.placeholder.com\/128x128\/ff7f7f\/333333?text=Icon",
+        "l": "https:\/\/via.placeholder.com\/256x256\/ff7f7f\/333333?text=Icon"
+    }
+}
